@@ -1,5 +1,5 @@
 # DataStructures
-/*
+
 Here I stored my Data Structure workings that are included Stacks, Queues, Linked Lists by using both arrays and linked lists.
 Index of codes and how it works is included in files.
 
@@ -16,8 +16,7 @@ of a C++ program.
 9  End of data
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 In homework2.c :
-we have 4 different classes of Data Structures. The number of students in these classes may be different.
- Leave student list as sorted when performing the insert operation. Sort will be performed in decreasing order based on the midterm scores. And the program calculates the averages.
+we have 4 different classes of Data Structures. The number of students in these classes may be different.Leave student list as sorted when performing the insert operation. Sort will be performed in decreasing order based on the midterm scores. And the program calculates the averages.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In homework3:
 We'll see how to combine two different data structure Linked List  in one Linked List.
@@ -33,6 +32,6 @@ In homework5:
 Student IDs and grades are given in input.We'll see how binary search tree works.I also provided an simple image of the created tree in this program as an output.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In homework6:
-In this homework we've implemented an AVL tree.Output will be an inorder walk on created AVL tree.
+In this homework we've implemented an AVL tree.Output will be an inorder walk on created AVL tree.Also You can find a function to print level by level a binary tree recursively.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*/
+
